@@ -1,0 +1,532 @@
+{
+  "thunder_shock_0.png": {
+    "x": 80,
+    "y": 122,
+    "w": 32,
+    "h": 20,
+    "cell_x": 4,
+    "cell_y": 4,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "thunder_shock_1.png": {
+    "x": 269,
+    "y": 122,
+    "w": 32,
+    "h": 20,
+    "cell_x": 193,
+    "cell_y": 4,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "thunder_shock_2.png": {
+    "x": 458,
+    "y": 122,
+    "w": 32,
+    "h": 20,
+    "cell_x": 382,
+    "cell_y": 4,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "thunder_shock_3.png": {
+    "x": 647,
+    "y": 122,
+    "w": 32,
+    "h": 20,
+    "cell_x": 571,
+    "cell_y": 4,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "discharge_0.png": {
+    "x": 807,
+    "y": 87,
+    "w": 90,
+    "h": 90,
+    "cell_x": 760,
+    "cell_y": 4,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "discharge_1.png": {
+    "x": 996,
+    "y": 87,
+    "w": 90,
+    "h": 90,
+    "cell_x": 949,
+    "cell_y": 4,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "discharge_2.png": {
+    "x": 1185,
+    "y": 87,
+    "w": 90,
+    "h": 90,
+    "cell_x": 1138,
+    "cell_y": 4,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "discharge_3.png": {
+    "x": 1374,
+    "y": 87,
+    "w": 90,
+    "h": 90,
+    "cell_x": 1327,
+    "cell_y": 4,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "thunderbolt_0.png": {
+    "x": 72,
+    "y": 384,
+    "w": 48,
+    "h": 18,
+    "cell_x": 4,
+    "cell_y": 265,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "thunderbolt_1.png": {
+    "x": 261,
+    "y": 384,
+    "w": 48,
+    "h": 18,
+    "cell_x": 193,
+    "cell_y": 265,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "thunderbolt_2.png": {
+    "x": 450,
+    "y": 384,
+    "w": 48,
+    "h": 18,
+    "cell_x": 382,
+    "cell_y": 265,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "thunderbolt_3.png": {
+    "x": 639,
+    "y": 384,
+    "w": 48,
+    "h": 18,
+    "cell_x": 571,
+    "cell_y": 265,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "thunder.png": {
+    "x": 843,
+    "y": 361,
+    "w": 18,
+    "h": 64,
+    "cell_x": 760,
+    "cell_y": 265,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "electro_ball_0.png": {
+    "x": 996,
+    "y": 348,
+    "w": 90,
+    "h": 90,
+    "cell_x": 949,
+    "cell_y": 265,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "electro_ball_1.png": {
+    "x": 1185,
+    "y": 348,
+    "w": 90,
+    "h": 90,
+    "cell_x": 1138,
+    "cell_y": 265,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "electro_ball_2.png": {
+    "x": 1374,
+    "y": 348,
+    "w": 90,
+    "h": 90,
+    "cell_x": 1327,
+    "cell_y": 265,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "electro_ball_3.png": {
+    "x": 51,
+    "y": 609,
+    "w": 90,
+    "h": 90,
+    "cell_x": 4,
+    "cell_y": 526,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "eweb_0.png": {
+    "x": 269,
+    "y": 638,
+    "w": 32,
+    "h": 32,
+    "cell_x": 193,
+    "cell_y": 526,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "eweb_1.png": {
+    "x": 458,
+    "y": 638,
+    "w": 32,
+    "h": 32,
+    "cell_x": 382,
+    "cell_y": 526,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "eweb_2.png": {
+    "x": 647,
+    "y": 638,
+    "w": 32,
+    "h": 32,
+    "cell_x": 571,
+    "cell_y": 526,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "eweb_3.png": {
+    "x": 836,
+    "y": 638,
+    "w": 32,
+    "h": 32,
+    "cell_x": 760,
+    "cell_y": 526,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "volt_tackle_0.png": {
+    "x": 1023,
+    "y": 636,
+    "w": 36,
+    "h": 36,
+    "cell_x": 949,
+    "cell_y": 526,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "volt_tackle_1.png": {
+    "x": 1212,
+    "y": 636,
+    "w": 36,
+    "h": 36,
+    "cell_x": 1138,
+    "cell_y": 526,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "volt_tackle_2.png": {
+    "x": 1401,
+    "y": 636,
+    "w": 36,
+    "h": 36,
+    "cell_x": 1327,
+    "cell_y": 526,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "volt_tackle_3.png": {
+    "x": 78,
+    "y": 897,
+    "w": 36,
+    "h": 36,
+    "cell_x": 4,
+    "cell_y": 787,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "zap_cannon_0.png": {
+    "x": 239,
+    "y": 903,
+    "w": 93,
+    "h": 25,
+    "cell_x": 193,
+    "cell_y": 787,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "zap_cannon_1.png": {
+    "x": 458,
+    "y": 899,
+    "w": 32,
+    "h": 32,
+    "cell_x": 382,
+    "cell_y": 787,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "zap_cannon_2.png": {
+    "x": 647,
+    "y": 899,
+    "w": 32,
+    "h": 32,
+    "cell_x": 571,
+    "cell_y": 787,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "zap_cannon_3.png": {
+    "x": 836,
+    "y": 899,
+    "w": 32,
+    "h": 32,
+    "cell_x": 760,
+    "cell_y": 787,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "zap_cannon_start.png": {
+    "x": 1017,
+    "y": 885,
+    "w": 48,
+    "h": 60,
+    "cell_x": 949,
+    "cell_y": 787,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "zap_cannon_mid.png": {
+    "x": 1198,
+    "y": 885,
+    "w": 64,
+    "h": 60,
+    "cell_x": 1138,
+    "cell_y": 787,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "zap_cannon_end.png": {
+    "x": 1387,
+    "y": 885,
+    "w": 64,
+    "h": 60,
+    "cell_x": 1327,
+    "cell_y": 787,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "cannon_electric_0.png": {
+    "x": 50,
+    "y": 1164,
+    "w": 93,
+    "h": 25,
+    "cell_x": 4,
+    "cell_y": 1048,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "cannon_electric_1.png": {
+    "x": 253,
+    "y": 1167,
+    "w": 64,
+    "h": 18,
+    "cell_x": 193,
+    "cell_y": 1048,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "thunder_wave_0.png": {
+    "x": 462,
+    "y": 1150,
+    "w": 24,
+    "h": 52,
+    "cell_x": 382,
+    "cell_y": 1048,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "thunder_wave_1.png": {
+    "x": 651,
+    "y": 1150,
+    "w": 24,
+    "h": 52,
+    "cell_x": 571,
+    "cell_y": 1048,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "thunder_wave_2.png": {
+    "x": 840,
+    "y": 1150,
+    "w": 24,
+    "h": 52,
+    "cell_x": 760,
+    "cell_y": 1048,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "thunder_wave_3.png": {
+    "x": 1029,
+    "y": 1150,
+    "w": 24,
+    "h": 52,
+    "cell_x": 949,
+    "cell_y": 1048,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "shock_0.png": {
+    "x": 1180,
+    "y": 1126,
+    "w": 100,
+    "h": 100,
+    "cell_x": 1138,
+    "cell_y": 1048,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "shock_1.png": {
+    "x": 1369,
+    "y": 1126,
+    "w": 100,
+    "h": 100,
+    "cell_x": 1327,
+    "cell_y": 1048,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "shock_2.png": {
+    "x": 46,
+    "y": 1387,
+    "w": 100,
+    "h": 100,
+    "cell_x": 4,
+    "cell_y": 1309,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "spark.png": {
+    "x": 267,
+    "y": 1425,
+    "w": 36,
+    "h": 24,
+    "cell_x": 193,
+    "cell_y": 1309,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "spark_bolt.png": {
+    "x": 445,
+    "y": 1417,
+    "w": 58,
+    "h": 40,
+    "cell_x": 382,
+    "cell_y": 1309,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "bolt_0.png": {
+    "x": 634,
+    "y": 1417,
+    "w": 58,
+    "h": 40,
+    "cell_x": 571,
+    "cell_y": 1309,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "bolt_1.png": {
+    "x": 825,
+    "y": 1417,
+    "w": 54,
+    "h": 40,
+    "cell_x": 760,
+    "cell_y": 1309,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "boom_electric_0.png": {
+    "x": 949,
+    "y": 1309,
+    "w": 185,
+    "h": 257,
+    "cell_x": 949,
+    "cell_y": 1309,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "boom_electric_1.png": {
+    "x": 1138,
+    "y": 1309,
+    "w": 185,
+    "h": 257,
+    "cell_x": 1138,
+    "cell_y": 1309,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "boom_electric_2.png": {
+    "x": 1327,
+    "y": 1309,
+    "w": 185,
+    "h": 257,
+    "cell_x": 1327,
+    "cell_y": 1309,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "boom_electric_3.png": {
+    "x": 4,
+    "y": 1570,
+    "w": 185,
+    "h": 257,
+    "cell_x": 4,
+    "cell_y": 1570,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "boom_electric_4.png": {
+    "x": 193,
+    "y": 1570,
+    "w": 185,
+    "h": 257,
+    "cell_x": 193,
+    "cell_y": 1570,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "boom_electric_5.png": {
+    "x": 382,
+    "y": 1570,
+    "w": 185,
+    "h": 257,
+    "cell_x": 382,
+    "cell_y": 1570,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "boom_electric_6.png": {
+    "x": 571,
+    "y": 1570,
+    "w": 185,
+    "h": 257,
+    "cell_x": 571,
+    "cell_y": 1570,
+    "cell_w": 185,
+    "cell_h": 257
+  },
+  "boom_electric_7.png": {
+    "x": 760,
+    "y": 1570,
+    "w": 185,
+    "h": 257,
+    "cell_x": 760,
+    "cell_y": 1570,
+    "cell_w": 185,
+    "cell_h": 257
+  }
+}

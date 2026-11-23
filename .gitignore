@@ -1,0 +1,34 @@
+# Build outputs & binaries
+__pycache__/
+*.pyc
+build3d/
+dist/
+*.exe
+*.vpk
+*.o
+*.obj
+*.elf
+*.velf
+*.sfo
+*.dat
+boot_log.txt
+camera.cfg
+
+# User ROMs (NEVER commit)
+*.gba
+*.nds
+*.3ds
+*.nsp
+*.xci
+
+# ROM-generated map and tileset data (extracted by BUILD.bat from user's emerald.gba)
+src/maps_data.c
+src/pokedex_descriptions.h
+assets/world/emerald_tiles.png
+
+# ROM-derived audio and map data (generated from the user's own ROM by BUILD.bat)
+assets/audio/mus_*.wav
+assets/audio/sfx_emerald_levelup.wav
+assets/world/stage_preview_[3-6].png
+tools/emerald_maps/stage_cells.json
+tools/emerald_maps/stage_layouts.json
